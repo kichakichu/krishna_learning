@@ -1,0 +1,6 @@
+Krishna Learing 
+1 .To initialize in the folder
+2 .To check the status
+3 .To add and commit the file
+4 .To push the file
+
